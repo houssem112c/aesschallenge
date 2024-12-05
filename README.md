@@ -11,12 +11,12 @@ Interactive UI: Graphical representation of data using percentage indicators.
 Alert System: Displays alerts based on the fetched data (e.g., if values exceed thresholds).
 Pull-to-Refresh: Users can refresh data by pulling down the screen.
 
-frontend/
-├── android/                 
-├── ios/                      
-├── lib/                      
+frontend/                                             
+├── android/                                          
+├── ios/                                         
+├── lib/                                                                               
 │   ├── main.dart             
-│   ├── screens/              
+│   ├── screens/                                    
 │   │   ├── HomePage.dart                                                
 │   │   ├── DashboardScreen.dart                                                       
 │   │   ├── AboutScreen.dart                                                     
