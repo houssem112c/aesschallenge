@@ -49,19 +49,19 @@ Model Data Endpoint: Provides model data (e.g., double_planter, weed_cluster, an
 Environment Setup: The backend uses an .env file to securely store configuration details like API keys and database credentials.
 Error Handling: Basic error handling for failed API requests.
 
-backend/
-├── routes/                  
-│   ├── auth.js         
-│   ├── modelOutput.js       
-│   └── profile.js        
-├── middlewares/            
-│   ├── authMiddleware.js    
-├── models/             
-│   ├── User.js      
-│   └── ModelOutput.js       
-├── .env                     
-├── server.js             
-└── package.json          
+backend/                                         
+├── routes/                                                 
+│   ├── auth.js                        
+│   ├── modelOutput.js                              
+│   └── profile.js                              
+├── middlewares/                                 
+│   ├── authMiddleware.js                                   
+├── models/                                               
+│   ├── User.js                                  
+│   └── ModelOutput.js                                    
+├── .env                                              
+├── server.js                                    
+└── package.json                                  
 
 # How It Works
 The Frontend (Flutter) communicates with the Backend API (Node.js/Express) to fetch model data and display it on the mobile application.
