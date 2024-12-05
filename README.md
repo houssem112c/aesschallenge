@@ -17,22 +17,22 @@ frontend/
 ├── lib/                      
 │   ├── main.dart             
 │   ├── screens/              
-│   │   ├── HomePage.dart 
-│   │   ├── DashboardScreen.dart
-│   │   ├── AboutScreen.dart    
-│   │   ├── MainScreen.dart 
-│   │   ├── ProfileScreen.dart
-│   │   ├── ChatbotScreen.dart# Signup screen UI
-│   │   ├── ChangePasswordScreen.dart   
-│   │   ├── ChangeLanguageScreen.dart 
-│   │   ├── auth/  
-│   │       ├── SignUpScreen.dart
-│   │       ├── SignInScreen.dart 
-│   │       └── ForgotPasswordScreen.dart 
-│   ├── widgets/          
-│   │   ├── custom_button.dart 
-│   │   ├── custom_textfield.dart 
-│   │   └── Rounded_Button.dart  
+│   │   ├── HomePage.dart                                                
+│   │   ├── DashboardScreen.dart                                                       
+│   │   ├── AboutScreen.dart                                                     
+│   │   ├── MainScreen.dart                                              
+│   │   ├── ProfileScreen.dart                                           
+│   │   ├── ChatbotScreen.dart                                                     
+│   │   ├── ChangePasswordScreen.dart                                           
+│   │   ├── ChangeLanguageScreen.dart                                              
+│   │   ├── auth/                                          
+│   │       ├── SignUpScreen.dart                                               
+│   │       ├── SignInScreen.dart                        
+│   │       └── ForgotPasswordScreen.dart                                      
+│   ├── widgets/                                            
+│   │   ├── custom_button.dart                                            
+│   │   ├── custom_textfield.dart                                          
+│   │   └── Rounded_Button.dart                                                       
 ├── pubspec.yaml             
 ├── assets/                  
 │   ├── images/              
